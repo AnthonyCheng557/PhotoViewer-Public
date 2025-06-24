@@ -1,4 +1,4 @@
-# Photoviewer
+# Photoviewer (Public version — Code will only be shared to authorized individuals)
 
 #loads image through https under the Json format
 
